@@ -1,5 +1,3 @@
-# Hackclub-boba
-
 <p align="center">
   <span>Build your first site</span><span> • </span><span>Get free boba</span>
 </p>
@@ -16,3 +14,5 @@ To qualify:
 Check it out at https://hack.club/boba
 
 <hr>
+
+# Title
