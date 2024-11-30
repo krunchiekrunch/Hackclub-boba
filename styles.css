@@ -1,0 +1,31 @@
+body {
+    background-color: lightpink;
+}
+
+h1 {
+    background-color: pink;
+}
+
+li {
+    opacity: 100%;
+}
+
+.info {
+    opacity: 25%;
+}
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+/* thank you stackoverflow <3 */

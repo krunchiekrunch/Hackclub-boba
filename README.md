@@ -15,4 +15,6 @@ Check it out at https://hack.club/boba
 
 <hr>
 
-# Title
+# DEMO
+
+https://radioactivepotato.github.io/hackclub-boba
